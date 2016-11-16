@@ -8,7 +8,8 @@ Assume all code executes in strict mode.
 ## Question 1
 
 Please list the JavaScript primitives and give one example of each.
-
+string/number/boolean/null/undefined-NaN
+"Hello, World!"/7/ 3 == 3/
 ## Question 2
 
 ```js
@@ -16,8 +17,8 @@ let c = 5;
 let d = 2;
 c = c + d;
 
-```
-
+```7
+   = assigns a new value to c / + adds the two values of the corresponding variables
 After this code executes, what is the value of c?  Please identify the operators in the last line of this program `c = c + d;` and explain what they do.
 
 
@@ -43,7 +44,7 @@ weather = "sunny";
 weather === "sunny";
 ```
 
-What are the values of these expressions?  Explain your answers.
+both return sunny
 
 
 ## Question 5
